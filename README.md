@@ -2,6 +2,8 @@
 
 A data analysis project using Python, Pandas, Matplotlib, and Seaborn to explore retail sales data and identify useful business insights.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pavan-P-N/retail-sales-analysis/blob/main/01_Retail_Sales_Analysis.ipynb)
+
 ## Project Overview
 
 The goal of this project is to analyze retail sales data and understand business performance across different regions, product categories, customer segments, and shipping methods.
